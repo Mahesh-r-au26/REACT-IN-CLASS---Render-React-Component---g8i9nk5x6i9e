@@ -5,7 +5,8 @@ const App = () => {
   return (
     <div id="main">
     
-    <p id="root"> I am learning react.My life is getting better.</p>
+    <p id="root"> "I am learning React. My life is getting better. "
+</p>
     </div>
   )
 }
